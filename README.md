@@ -14,7 +14,7 @@ Algunos de los mejores recursos para desarrollar aplicaciones universales son:
 * [WindowsUIDevLabs](https://github.com/Microsoft/WindowsUIDevLabs) repositorio con gran cantidad de demos que muestran el uso de las nuevas APIs para realizar animaciones (*Windows.UI.Composition*)
 * [Windows Universal Samples](https://github.com/Microsoft/Windows-universal-samples/) colección de demos que muestran como trabajar con sensores, dispositivos, ficheros, controles...
 * [Cómo publicar una UWP en la tienda](https://lenguajedeprogramacion.com/csharp/subir-aplicacion-windows-store/) manual paso a paso pasra subir nuestra aplicación a la tienda.
-
+* [Como hacer una UWP](https://www.somosbinarios.es/creando-nuestra-primer-aplicacion-universal/) pequeño videotutorial que demuestra como hacer una aplicación universal
 ## WPF
 En este caso destacamos:
 
