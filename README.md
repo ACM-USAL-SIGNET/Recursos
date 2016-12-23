@@ -1,6 +1,18 @@
 # Recursos
 Aquí encontrarás una recopilación de recursos muy utiles para desarrollar tus aplicaciones con .Net
 
+## Máquinas virtuales
+Si no tienes Windows en tu ordenador o no quieres usarlo para desarrollar por la cantidad de elementos que hay que configurar e instalar, puedes usar las máquinas virtuales que [ofrece Microsoft](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines) ya preconfiguradas con:
+
+* La última versión de Windows
+* Visual Studio Community
+* Windows SDK
+* Azure SDK
+* Windows Bridge for iOS
+* Windows UWP samples
+* Windows Bridge for iOS samples
+* Bash on Ubuntu on Windows
+
 ## Multiplataforma
 Los principales recursos que os podemos recomendar son:
 
