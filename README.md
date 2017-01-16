@@ -32,3 +32,8 @@ En este caso destacamos:
 
 * [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) este recurso nos permite dotar a una aplicación WPF de un estilo Metro UI.
 
+## Xamarin
+En Xamarin te sugerimos:
+
+* [Spent](https://github.com/pierceboggan/spent) aprende a crear una App en Xamarin construyendo la tuya paso a paso
+
